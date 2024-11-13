@@ -1,0 +1,1 @@
+this project best describe the usage of useEffect and side effects in React projects, with this simple app , the image of user would be selected based on their locations , for example a person living in the USA whould see the image of places near to him first and he could pick one place for future journey or visit.
